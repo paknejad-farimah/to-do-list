@@ -1,0 +1,54 @@
+body{
+    width:400px;
+    margin:0px auto;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+header{
+    font-size: 26px;
+    color: blue;
+    padding-top: 100px;
+
+}
+form #search-input{
+    width: 100%;
+}
+span{
+font-size: 20px;
+
+}
+ .delete-btn{
+    background-color: green;
+    color: wheat;
+    border: 1px solid blue;
+    padding-top: 5px;
+    margin-top: 5px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+ul{
+    
+
+}
+#input-form{
+    width: 100%;
+}
+button{
+    background-color: green;
+    color: wheat;
+    border: 1px solid blue;
+    border-radius: 20%;
+    cursor: pointer;
+}
+#input-form{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.title{
+
+}
+.to-do-item{
+    display: flex;
+    justify-content:space-between;
+}
